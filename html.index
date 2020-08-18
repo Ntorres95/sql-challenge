@@ -1,0 +1,17 @@
+<!DOCTYPE>
+<lan="en-us">
+
+<html>
+  <body>
+  <h1>SQL CHALLENGE</h1>
+  
+  <p>
+  This was a sql based data analysis assignment. We had to combine and 
+  import different data sets to effectively search for and select the necessary information.<br>
+  
+  We started off by creating a layout of our tables and then exporting the code to help us import the data we needed.<br>
+  
+  <img src="ERD.png" alt="Table layout">
+  </p>
+  </body>
+</html>
